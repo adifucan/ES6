@@ -677,7 +677,7 @@ const allParks = [
 
 const allStreets = [
     new Street('Schevchenko', 1910, 15, 4),
-    new Street('Degtiariovskaya', 1930, 10, 3),
+    new Street('Degtiariovskaya', 1930, 10),
     new Street('Mezhigorskaya', 1900, 1, 1),
     new Street('Kreschatik', 1810, 3, 2),
 ];
